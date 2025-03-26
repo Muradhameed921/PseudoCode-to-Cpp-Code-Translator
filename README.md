@@ -28,5 +28,6 @@ The dataset consists of paired pseudocode and C++ code samples. It has been prep
 
 ## Results
 The model achieves promising results in translating structured pseudocode into valid C++ syntax. Improvements can be made through hyperparameter tuning and dataset expansion.
-![PseudoCode to C++ Code Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![PseudoCode to C++ Code Screenshot](https://github.com/Muradhameed921/PseudoCode-to-Cpp-Code-Translator/blob/main/P1.jpg)
+![PseudoCode to C++ Code Screenshot](https://github.com/Muradhameed921/PseudoCode-to-Cpp-Code-Translator/blob/main/P2.jpg)
 
